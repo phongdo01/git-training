@@ -8,4 +8,5 @@ xe hoi toyota cua Nhat Ban
 
 
 Dai hoc Bach Khoa TP.Ho Chi Minh
-duong Ly Thuong Kiet
+duong Ly Thuong Kiet phuong Phu Nhuan
+Toa nha 3 ben trai
