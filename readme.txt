@@ -8,4 +8,4 @@ xe hoi toyota cua Nhat Ban
 
 
 Dai hoc Bach Khoa TP.Ho Chi Minh
-duong Ly Thuong Kiet
+so nha bao nhieu 5, phuong tada Ly Thuong Kiet
