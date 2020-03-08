@@ -1,2 +1,4 @@
 fie2
 sua file 2
+
+them lang nhan vao file2
